@@ -29,6 +29,7 @@
 		private void InitializeComponent()
 		{
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel4 = new System.Windows.Forms.Panel();
             this.about_panel = new System.Windows.Forms.Panel();
             this.config_btn = new System.Windows.Forms.Button();
@@ -72,12 +73,12 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.Navy;
+            this.panel4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel4.BackgroundImage")));
             this.panel4.Controls.Add(this.about_panel);
-            this.panel4.Location = new System.Drawing.Point(1, 0);
+            this.panel4.Location = new System.Drawing.Point(3, 3);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(200, 100);
+            this.panel4.Size = new System.Drawing.Size(197, 122);
             this.panel4.TabIndex = 3;
-            this.panel4.Visible = false;
             // 
             // about_panel
             // 
@@ -87,7 +88,7 @@
             this.about_panel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.about_panel.Location = new System.Drawing.Point(201, 3);
             this.about_panel.Name = "about_panel";
-            this.about_panel.Size = new System.Drawing.Size(792, 513);
+            this.about_panel.Size = new System.Drawing.Size(789, 535);
             this.about_panel.TabIndex = 7;
             // 
             // config_btn

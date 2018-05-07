@@ -34,3 +34,15 @@ C:\Users\elchi\Source\Repos\Geomagnetic_Sensor_GUI-WAF-2\Geomagnetic_Sensor_GUI(
 C:\Users\elchi\Source\Repos\Geomagnetic_Sensor_GUI-WAF-2\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).exe
 C:\Users\elchi\Source\Repos\Geomagnetic_Sensor_GUI-WAF-2\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).pdb
 C:\Users\elchi\Source\Repos\Geomagnetic_Sensor_GUI-WAF-2\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).csprojResolveAssemblyReference.cache
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\bin\Release\Geomagnetic_Sensor_GUI(WAF).exe.config
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\bin\Release\Geomagnetic_Sensor_GUI(WAF).exe
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\bin\Release\Geomagnetic_Sensor_GUI(WAF).pdb
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\bin\Release\System.Collections.Immutable.dll
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\bin\Release\System.Collections.Immutable.xml
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI_WAF_.Form1.resources
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI_WAF_.Properties.Resources.resources
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).csproj.GenerateResource.cache
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).csproj.CoreCompileInputs.cache
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).csproj.CopyComplete
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).exe
+C:\Users\Allen\Source\Repos\GeoMsoft_v1\Geomagnetic_Sensor_GUI(WAF)\obj\Release\Geomagnetic_Sensor_GUI(WAF).pdb
